@@ -18,7 +18,8 @@
         </activity>
         <activity android:name=".TextView" />
         <activity android:name=".TableLayout" />
-        <activity android:name=".ToggleButtonTest"></activity>
+        <activity android:name=".ToggleButtonTest" />
+        <activity android:name=".ClockTets"></activity>
     </application>
 
 </manifest>
